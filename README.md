@@ -1,4 +1,4 @@
-# ESRI's ArcPy geoprocessing python package
+# ArcPy batch export script for animated maps and movie creation.
 
 For ArcGIS users. Some useful ArcPy scripts for batch applying symbology, definition query and map export.
 Especially useful for creating animated maps or videos, when bulk modification and export of large numbers of layers is required.
